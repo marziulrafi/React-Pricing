@@ -49,7 +49,7 @@ const NavBar = () => {
                     bg-amber-200`}>
                     {links}
                 </ul>
-                <h3 className='ml-4'>My Navbar</h3>
+                <h3 className='ml-4'>Gym Mania</h3>
             </span>
             <ul className='md:flex hidden'>
                 {
